@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Priyanshu-choudhary/Priyanshu-choudhary/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Priyanshu-choudhary/Priyanshu-choudhary/snake.svg" alt="Snake animation" />
 
 ###
 
