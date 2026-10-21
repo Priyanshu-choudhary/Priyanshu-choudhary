@@ -6,14 +6,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ROS%202-Humble%20%7C%20Rolling-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2">
   <img src="https://img.shields.io/badge/NVIDIA-Jetson%20%7C%20TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson">
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Java, Spring Boot">
   <img src="https://img.shields.io/badge/Rust-open%20source-B7410E?style=flat-square&logo=rust&logoColor=white" alt="Rust">
 </p>
 
 ## 👋 About me
 
-I build robots that work on their own: **ROS 2 navigation on a Jetson Nano**, **camera-only driving**, **GPS-denied drone flight**, and robots that **learn to dock** with reinforcement learning. I'm a final-year CSE student, and I contribute to open-source projects in Rust, C and Python.
+I build robots that work on their own: **ROS 2 navigation on a Jetson Nano**, **camera-only driving**, **GPS-denied drone flight**, and robots that **learn to dock** with reinforcement learning. I also build **backends**: Java and Spring Boot APIs, secure code-execution services, and cloud deployments on AWS. I'm a final-year CSE student, and I contribute to open-source projects in Rust, C and Python.
 
 - 🤖 **Now building:** autonomous charger docking for my ROS 2 robot, plus CARLA simulation for its perception stack
+- ☕ **Backend:** Spring Boot, Spring Security + JWT, MongoDB, Redis, Docker, AWS (S3, SQS, EC2)
 - 🦀 **Contributing to:** [uutils/coreutils](https://github.com/uutils/coreutils), the Rust rewrite of GNU coreutils
 
 ## 🌍 Open-source contributions
@@ -26,7 +28,7 @@ I build robots that work on their own: **ROS 2 navigation on a Jetson Nano**, **
 
 <sub>➜ [All my pull requests to other projects](https://github.com/pulls?q=is%3Apr+author%3APriyanshu-choudhary+-user%3APriyanshu-choudhary)</sub>
 
-## 🚀 Featured projects
+## 🤖 Robotics & AI projects
 
 <table>
 <tr>
@@ -65,21 +67,26 @@ A robot car that **learns** to find, align with and park into its charging dock 
 
 </td>
 </tr>
+</table>
+
+## ⚙️ Backend engineering
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 📦 [GoBoxD: code sandbox](https://github.com/Priyanshu-choudhary/code-sandbox)
-An HTTP service that compiles and runs **untrusted code** in isolated Linux sandboxes, with a queue-based distributed design.
+### 🏆 [CFC: coding-platform backend](https://github.com/Priyanshu-choudhary/CFC_Backend)
+The backend of a competitive-coding platform: **courses, contests, problems, lectures and skill tracking**, with role-based auth and file uploads.
 
-`Go` `FastAPI` `nsjail` `Redis` `AWS SQS`
+`Java` `Spring Boot` `Spring Security` `JWT` `MongoDB` `Redis` `AWS S3` `AWS SQS` `Spring AI` `Prometheus` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 [TinyTLV protocol](https://github.com/Priyanshu-choudhary/TinyTVLx)
-A minimal, **binary-safe framing protocol** for microcontrollers and stream links (UART, WebSockets), shared between Arduino/C++ and Python.
+### 📦 [GoBoxD: code-execution sandbox](https://github.com/Priyanshu-choudhary/code-sandbox)
+An HTTP service that compiles and runs **untrusted code** in isolated Linux sandboxes, with a queue-based distributed design.
 
-`C++` `Python` `Embedded`
+`Go` `FastAPI` `nsjail` `Redis` `AWS SQS` `Docker`
 
 </td>
 </tr>
@@ -92,7 +99,8 @@ A minimal, **binary-safe framing protocol** for microcontrollers and stream link
 - 🎥 [Internet-based camera](https://github.com/Priyanshu-choudhary/Internet_based_camera): live video from a Raspberry Pi to anywhere, through a WebRTC server on AWS EC2
 - 🩺 [Orthopedic SSI infection detection](https://github.com/Priyanshu-choudhary/orthopedic-SSI-Infection-detection-): ML models, API and frontend for surgical-site infection detection
 - 🧠 [LLM workshop](https://github.com/Priyanshu-choudhary/LLM_workshop): college workshop building a tiny GPT-style language model from scratch
-- ☕ [CFC backend](https://github.com/Priyanshu-choudhary/CFC_Backend): Spring Boot REST backend with Docker
+- 📡 [TinyTLV protocol](https://github.com/Priyanshu-choudhary/TinyTVLx): binary-safe framing protocol for microcontrollers and stream links, shared between Arduino/C++ and Python
+- ☕ [CS Party backend](https://github.com/Priyanshu-choudhary/CSPartyBackend) and [Byte Task backend](https://github.com/Priyanshu-choudhary/byte-task-Backend): Java backends for event registration and subscriptions
 - 👀 [Stereo camera algorithms](https://github.com/Priyanshu-choudhary/Stereo-camera-Algo-s): depth from stereo vision
 
 </details>
@@ -116,8 +124,17 @@ A minimal, **binary-safe framing protocol** for microcontrollers and stream link
 </p>
 
 <p align="center">
-  <b>Backend & tools</b><br><br>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,react,docker,redis,aws,linux,git,bash&theme=dark" alt="Spring, FastAPI, React, Docker, Redis, AWS, Linux, Git, Bash">
+  <b>Backend & cloud</b><br><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,fastapi,mongodb,redis,docker,aws,prometheus,postman&theme=dark" alt="Java, Spring, Maven, FastAPI, MongoDB, Redis, Docker, AWS, Prometheus, Postman"><br>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/REST%20APIs-0969DA?style=flat-square" alt="REST APIs">
+  <img src="https://img.shields.io/badge/AWS-S3%20%7C%20SQS%20%7C%20EC2-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS S3, SQS, EC2">
+</p>
+
+<p align="center">
+  <b>Frontend & tools</b><br><br>
+  <img src="https://skillicons.dev/icons?i=react,linux,git,bash&theme=dark" alt="React, Linux, Git, Bash">
 </p>
 
 ---
