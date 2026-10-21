@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/ROS%202-Humble%20%7C%20Rolling-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2">
   <img src="https://img.shields.io/badge/NVIDIA-Jetson%20%7C%20TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson">
   <img src="https://img.shields.io/badge/Rust-open%20source-B7410E?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/GSoC-2027%20aspirant-4285F4?style=flat-square&logo=google&logoColor=white" alt="GSoC 2027">
 </p>
 
 ## 👋 About me
@@ -16,7 +15,6 @@ I build robots that work on their own: **ROS 2 navigation on a Jetson Nano**, **
 
 - 🤖 **Now building:** autonomous charger docking for my ROS 2 robot, plus CARLA simulation for its perception stack
 - 🦀 **Contributing to:** [uutils/coreutils](https://github.com/uutils/coreutils), the Rust rewrite of GNU coreutils
-- 🎯 **Aiming for:** Google Summer of Code 2027, in robotics and systems software
 
 ## 🌍 Open-source contributions
 
