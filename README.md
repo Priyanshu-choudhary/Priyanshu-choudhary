@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Priyanshu Choudhary: Robotics & AI Engineer, open-source contributor" src="assets/banner-light.svg" width="100%">
+  <img alt="Yadi Choudhary: Robotics & AI Engineer, open-source contributor" src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
