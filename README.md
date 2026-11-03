@@ -137,24 +137,7 @@ An HTTP service that compiles and runs **untrusted code** in isolated Linux sand
 </table>
 
 <details>
-<summary><b>More projects</b></summary>
-<br>
-
-- 🎥 [Internet-based camera](https://github.com/Priyanshu-choudhary/Internet_based_camera): live video from a Raspberry Pi to anywhere, through a WebRTC server on AWS EC2
-- 🩺 [Orthopedic SSI infection detection](https://github.com/Priyanshu-choudhary/orthopedic-SSI-Infection-detection-): ML models, API and frontend for surgical-site infection detection
-- 🧠 [LLM workshop](https://github.com/Priyanshu-choudhary/LLM_workshop): college workshop building a tiny GPT-style language model from scratch
-- 📡 [TinyTLV protocol](https://github.com/Priyanshu-choudhary/TinyTVLx): binary-safe framing protocol for microcontrollers and stream links, shared between Arduino/C++ and Python
-- ☕ [CS Party backend](https://github.com/Priyanshu-choudhary/CSPartyBackend) and [Byte Task backend](https://github.com/Priyanshu-choudhary/byte-task-Backend): Java backends for event registration and subscriptions
-- 👀 [Stereo camera algorithms](https://github.com/Priyanshu-choudhary/Stereo-camera-Algo-s): depth from stereo vision
-
-</details>
 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Priyanshu-choudhary&theme=dark&hide_border=true" alt="GitHub Streak & Contributions">
-</p>
 
----
-
-<p align="center"><sub>Building robots, fixing bugs, learning in public · thanks for visiting ✨</sub></p>
