@@ -7,26 +7,70 @@
   <img src="https://img.shields.io/badge/ROS%202-Humble%20%7C%20Rolling-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2">
   <img src="https://img.shields.io/badge/NVIDIA-Jetson%20%7C%20TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson">
   <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Java, Spring Boot">
-  <img src="https://img.shields.io/badge/Rust-open%20source-B7410E?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Rust-Systems-B7410E?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-8250DF?style=flat-square&logo=github&logoColor=white" alt="Open Source Contributor">
 </p>
 
 ## 👋 About me
 
-I build robots that work on their own: **ROS 2 navigation on a Jetson Nano**, **camera-only driving**, **GPS-denied drone flight**, and robots that **learn to dock** with reinforcement learning. I also build **backends**: Java and Spring Boot APIs, secure code-execution services, and cloud deployments on AWS. I'm a final-year CSE student, and I contribute to open-source projects in Rust, C and Python.
+I build robots that work on their own: **ROS 2 navigation on a Jetson Nano**, **camera-only driving**, **GPS-denied drone flight**, and robots that **learn to dock** with reinforcement learning. I also build **backends**: Java and Spring Boot APIs, secure code-execution services, and cloud deployments on AWS. I'm a final-year CSE student, and an active open-source contributor across systems programming, robotics, and developer tooling.
 
 - 🤖 **Now building:** autonomous charger docking for my ROS 2 robot, plus CARLA simulation for its perception stack
 - ☕ **Backend:** Spring Boot, Spring Security + JWT, MongoDB, Redis, Docker, AWS (S3, SQS, EC2)
-- 🦀 **Contributing to:** [uutils/coreutils](https://github.com/uutils/coreutils), the Rust rewrite of GNU coreutils
+- 🌐 **Open Source:** Actively contributing upstream across Rust systems, robotics middleware, and developer tooling
 
-## 🌍 Open-source contributions
+## 🌍 Open-source contributor
 
-| | Project | Contribution | |
-| :---: | --- | --- | :---: |
-| 🦀 | [**uutils/coreutils**](https://github.com/uutils/coreutils)<br><sub>Rust rewrite of GNU coreutils</sub> | [`ln`: report "same file" for every backup mode](https://github.com/uutils/coreutils/pull/15545)<br><sub>bug fix + tests, checked against GNU 9.12</sub> | ![merged](https://img.shields.io/badge/merged-8250DF?style=flat-square&logo=github&logoColor=white) |
-| 📐 | [**SolidCraft**](https://github.com/tangency-labs/solidcraft)<br><sub>parametric 3D CAD in Rust</sub> | [Find a Chinese fallback font on Linux and Windows](https://github.com/tangency-labs/solidcraft/pull/3466)<br><sub>font discovery fix for the zh-CN UI</sub> | ![merged](https://img.shields.io/badge/merged-8250DF?style=flat-square&logo=github&logoColor=white) |
-| 🐢 | [**ROS 2 CLI**](https://github.com/ros2/ros2cli)<br><sub>command-line tools for ROS 2</sub> | [`ros2` prints a `BrokenPipeError` traceback when piped to `head`](https://github.com/ros2/ros2cli/issues/1342)<br><sub>bug report with root-cause analysis</sub> | ![reported](https://img.shields.io/badge/reported-1F883D?style=flat-square&logo=github&logoColor=white) |
+I believe in giving back to the community and contributing upstream to the tools and ecosystems I use every day. Rather than confining myself to a single repository, I actively contribute fixes, features, and compatibility improvements across diverse domains:
 
-<sub>➜ [All my pull requests to other projects](https://github.com/pulls?q=is%3Apr+author%3APriyanshu-choudhary+-user%3APriyanshu-choudhary)</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🦀 Core Systems & CLI Tooling
+Contributing upstream bug fixes, POSIX/GNU compatibility improvements, and edge-case handling to high-performance systems and command-line utilities in Rust and C.
+
+`Rust` `Systems Programming` `CLI Tools` `POSIX / GNU`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Robotics & Middleware Runtimes
+Tackling race conditions, dataflow pipelines, and CLI diagnostics across distributed robotics and agentic middleware frameworks.
+
+`ROS 2` `dora-rs` `C++` `Robotics Stack`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📐 3D Geometry & Graphics Engines
+Resolving algorithmic edge cases in geometry kernels, cross-platform path handling, and UI/font fallback discovery for parametric CAD tools.
+
+`Computational Geometry` `Cross-Platform` `Wasm / Node`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Upstream Bug Hunting & Triage
+Reporting upstream issues with deep root-cause analysis, reproducible minimal test cases, and clean companion pull requests with regression tests.
+
+`Issue Triage` `Unit & Regression Tests` `CI / Workflows`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3APriyanshu-choudhary+-user%3APriyanshu-choudhary">
+    <img src="https://img.shields.io/badge/GitHub-View%20All%20Upstream%20PRs-1F883D?style=for-the-badge&logo=github&logoColor=white" alt="View All Upstream PRs">
+  </a>
+  &nbsp;
+  <a href="https://github.com/pulls?q=is%3Apr+author%3APriyanshu-choudhary+is%3Amerged+-user%3APriyanshu-choudhary">
+    <img src="https://img.shields.io/badge/Merged%20PRs-Across%20Ecosystems-8250DF?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs Across Ecosystems">
+  </a>
+</p>
 
 ## 🤖 Robotics & AI projects
 
@@ -135,6 +179,10 @@ An HTTP service that compiles and runs **untrusted code** in isolated Linux sand
 <p align="center">
   <b>Frontend & tools</b><br><br>
   <img src="https://skillicons.dev/icons?i=react,linux,git,bash&theme=dark" alt="React, Linux, Git, Bash">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Priyanshu-choudhary&theme=dark&hide_border=true" alt="GitHub Streak & Contributions">
 </p>
 
 ---
