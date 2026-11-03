@@ -149,37 +149,7 @@ An HTTP service that compiles and runs **untrusted code** in isolated Linux sand
 
 </details>
 
-## 🛠️ Tech stack
 
-<p align="center">
-  <b>Robotics & AI</b><br><br>
-  <img src="https://skillicons.dev/icons?i=ros,pytorch,opencv,raspberrypi,arduino&theme=dark" alt="ROS, PyTorch, OpenCV, Raspberry Pi, Arduino"><br>
-  <img src="https://img.shields.io/badge/Nav2-22314E?style=flat-square&logo=ros&logoColor=white" alt="Nav2">
-  <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square" alt="Gazebo">
-  <img src="https://img.shields.io/badge/CARLA-1F6FEB?style=flat-square" alt="CARLA">
-  <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Jetson">
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
-</p>
-
-<p align="center">
-  <b>Languages</b><br><br>
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,rust,go,java,ts,js&theme=dark" alt="Python, C++, C, Rust, Go, Java, TypeScript, JavaScript">
-</p>
-
-<p align="center">
-  <b>Backend & cloud</b><br><br>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,fastapi,mongodb,redis,docker,aws,prometheus,postman&theme=dark" alt="Java, Spring, Maven, FastAPI, MongoDB, Redis, Docker, AWS, Prometheus, Postman"><br>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security">
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/REST%20APIs-0969DA?style=flat-square" alt="REST APIs">
-  <img src="https://img.shields.io/badge/AWS-S3%20%7C%20SQS%20%7C%20EC2-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS S3, SQS, EC2">
-</p>
-
-<p align="center">
-  <b>Frontend & tools</b><br><br>
-  <img src="https://skillicons.dev/icons?i=react,linux,git,bash&theme=dark" alt="React, Linux, Git, Bash">
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Priyanshu-choudhary&theme=dark&hide_border=true" alt="GitHub Streak & Contributions">
